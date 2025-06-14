@@ -27,7 +27,7 @@ Move your mouse around the screen to create chunky, retro pixelated fluid effect
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/breschio/vizcode.git
 cd vizcode
 ```
 
